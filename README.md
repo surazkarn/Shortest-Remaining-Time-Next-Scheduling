@@ -14,5 +14,7 @@ The output should be in the following format:
 
 
 Average waiting time: zzzz.z
+
 Average turnaround time: zzzz.z
+
 Average response time: zzzz.z
